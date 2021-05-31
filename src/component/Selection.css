@@ -53,6 +53,7 @@
   padding: 0px 0px 4px 0px;
   border: none;
   cursor: pointer;
+  background-color: var(--carbon-3);
 }
 
 .selection-container .selection .dots button span:nth-child(2) {
